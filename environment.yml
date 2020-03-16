@@ -19,7 +19,6 @@ dependencies:
 - kealib=1.4.10=h1978553_1003
 - libdap4=3.19.1=0
 - libkml=1.3.0=h4fcabce_1010
-- libspatialindex=1.9.0=he1b5a44_1
 - libspatialite=4.3.0a=hb5ec416_1026
 - munch=2.3.2=py_0
 - openjpeg=2.3.1=h58a6597_0
@@ -301,7 +300,6 @@ dependencies:
 - unicodecsv=0.14.1=py37_0
 - unixodbc=2.3.7=h14c3975_0
 - urllib3=1.24.2=py37_0
-- util-linux=2.21=0
 - wcwidth=0.1.7=py37_0
 - webencodings=0.5.1=py37_1
 - werkzeug=0.15.4=py_0
