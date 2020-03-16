@@ -5,3 +5,9 @@ dependencies:
    - numpy
    - pandas
    - matplotlib
+   - scipy
+   - sklearn
+   - folium
+   - re
+   - seaborn
+   
