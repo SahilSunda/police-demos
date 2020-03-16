@@ -6,8 +6,7 @@ dependencies:
    - pandas
    - matplotlib
    - scipy
-   - sklearn
+   - scikit-learn
    - folium
-   - re
    - seaborn
    
