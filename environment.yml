@@ -1,7 +1,5 @@
 name: p37env
-channels:
-- conda-forge
-- defaults
+
 dependencies:
 - numpy
 - scipy
@@ -13,4 +11,4 @@ dependencies:
 - seaborn
 - math
 - quandl
-prefix: /home/cse/anaconda2/envs/p37env
+
