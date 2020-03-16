@@ -1,14 +1,12 @@
 name: p37env
-
+channels:
+- conda-forge
 dependencies:
 - numpy
 - scipy
 - scikit-learn
 - folium
-- datetime
 - statsmodels
-- re  
 - seaborn
-- math
 - quandl
 
