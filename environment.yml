@@ -1,0 +1,9 @@
+name: aktu-environment
+channels:
+   - conda-forge
+dependencies:
+   - numpy
+   - pandas
+   - matplotlib
+   - datetime
+   - nsepy
